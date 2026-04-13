@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y9Q0wkHmVmE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pham Nguyen\\source\\repos\\Lunar lander\\Lunar lander\\Lunar lander.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pham Nguyen\\.nuget\\packages\\raylib-cs\\7.0.2\\raylib-cs.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

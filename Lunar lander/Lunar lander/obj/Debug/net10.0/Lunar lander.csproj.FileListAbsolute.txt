@@ -1,0 +1,22 @@
+C:\Users\Pham Nguyen\source\repos\Lunar lander\Lunar lander\obj\Debug\net10.0\Lunar lander.csproj.AssemblyReference.cache
+C:\Users\Pham Nguyen\source\repos\Lunar lander\Lunar lander\obj\Debug\net10.0\Lunar lander.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pham Nguyen\source\repos\Lunar lander\Lunar lander\obj\Debug\net10.0\Lunar lander.AssemblyInfoInputs.cache
+C:\Users\Pham Nguyen\source\repos\Lunar lander\Lunar lander\obj\Debug\net10.0\Lunar lander.AssemblyInfo.cs
+C:\Users\Pham Nguyen\source\repos\Lunar lander\Lunar lander\obj\Debug\net10.0\Lunar lander.csproj.CoreCompileInputs.cache
+C:\Users\Pham Nguyen\source\repos\Lunar lander\Lunar lander\bin\Debug\net10.0\Lunar lander.exe
+C:\Users\Pham Nguyen\source\repos\Lunar lander\Lunar lander\bin\Debug\net10.0\Lunar lander.deps.json
+C:\Users\Pham Nguyen\source\repos\Lunar lander\Lunar lander\bin\Debug\net10.0\Lunar lander.runtimeconfig.json
+C:\Users\Pham Nguyen\source\repos\Lunar lander\Lunar lander\bin\Debug\net10.0\Lunar lander.dll
+C:\Users\Pham Nguyen\source\repos\Lunar lander\Lunar lander\bin\Debug\net10.0\Lunar lander.pdb
+C:\Users\Pham Nguyen\source\repos\Lunar lander\Lunar lander\bin\Debug\net10.0\Raylib-cs.dll
+C:\Users\Pham Nguyen\source\repos\Lunar lander\Lunar lander\bin\Debug\net10.0\runtimes\linux-x64\native\libraylib.so
+C:\Users\Pham Nguyen\source\repos\Lunar lander\Lunar lander\bin\Debug\net10.0\runtimes\osx-arm64\native\libraylib.dylib
+C:\Users\Pham Nguyen\source\repos\Lunar lander\Lunar lander\bin\Debug\net10.0\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\Pham Nguyen\source\repos\Lunar lander\Lunar lander\bin\Debug\net10.0\runtimes\win-x64\native\raylib.dll
+C:\Users\Pham Nguyen\source\repos\Lunar lander\Lunar lander\bin\Debug\net10.0\runtimes\win-x86\native\raylib.dll
+C:\Users\Pham Nguyen\source\repos\Lunar lander\Lunar lander\obj\Debug\net10.0\Lunar la.14C7D25C.Up2Date
+C:\Users\Pham Nguyen\source\repos\Lunar lander\Lunar lander\obj\Debug\net10.0\Lunar lander.dll
+C:\Users\Pham Nguyen\source\repos\Lunar lander\Lunar lander\obj\Debug\net10.0\refint\Lunar lander.dll
+C:\Users\Pham Nguyen\source\repos\Lunar lander\Lunar lander\obj\Debug\net10.0\Lunar lander.pdb
+C:\Users\Pham Nguyen\source\repos\Lunar lander\Lunar lander\obj\Debug\net10.0\Lunar lander.genruntimeconfig.cache
+C:\Users\Pham Nguyen\source\repos\Lunar lander\Lunar lander\obj\Debug\net10.0\ref\Lunar lander.dll
