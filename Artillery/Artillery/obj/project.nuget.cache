@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qe085mk8Vrc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pham Nguyen\\source\\repos\\Artillery\\Artillery\\Artillery.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pham Nguyen\\.nuget\\packages\\raylib-cs\\7.0.2\\raylib-cs.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
